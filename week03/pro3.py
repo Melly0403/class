@@ -1,0 +1,10 @@
+club = ['민준', '서연', '하윤']
+club.extend(['지우'])
+print(club)
+club.insert(2,'서연')
+print(club)
+print(club.count('서연'))
+club.reverse()
+print(club)
+club.remove('민준')
+print(club)
