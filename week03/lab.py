@@ -8,7 +8,7 @@ print(colors)               # (        )
 print(colors.index('파랑')) # (        )
 print(len(colors))          # (        )
 
-score = [88,92, 75, 100, 63]
+score = [88, 92, 75, 100, 63]
 print(score[2])  #( )
 print(score[:3])    #( )
 print(score[-1])    #( )
